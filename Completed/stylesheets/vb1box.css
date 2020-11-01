@@ -1,0 +1,14 @@
+div {
+    background-color: lightgray;
+    /* totale ruimte box wijzigen */
+    box-sizing: border-box;    
+    /* hoogte en breedte */
+    width: 400px;
+    height: 100px;
+    /* ruimte tussen content en border */
+    padding: 20px;
+    /* border */
+    border: 5px solid green;
+    /*ruimte tussen border en omringende boxes */
+    margin: 20px;
+}

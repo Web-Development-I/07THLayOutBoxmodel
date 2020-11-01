@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Verdana, sans-serif;
+  color: #111111;
+}
+th {
+  border-bottom: 1px solid #0088dd;
+  text-align: left;
+  color: #0088dd;
+  font-weight: normal;
+}
+td {
+  
+  vertical-align: top;
+  line-height: 1.4em;
+}
+td:nth-child(2){
+  
+
+  text-align: left;
+  padding: 5px;
+  margin: 0px;
+}
